@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Xin chào, tôi là Hung!
 
-<!--
-**huyhung1205/huyhung1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Giới thiệu
+💡 Đam mê chia sẻ kiến thức và xây dựng cộng đồng học tập.  
+🎯 Luôn tìm kiếm cơ hội học hỏi và phát triển bản thân.  
+🤝 Mong muốn kết nối với những người có cùng chí hướng để cùng nhau tạo ra giá trị.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Liên hệ
+- 📧 Email: hunghuy0925@gmail.com
+- 📘 Facebook: [hyhungg](https://www.facebook.com/hyhungg)
+---
+✨ “Học tập là hành trình không ngừng, chia sẻ là cách để cùng nhau tiến xa hơn.” ✨
