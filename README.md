@@ -10,6 +10,6 @@
 ## 🔗 Liên hệ
 - 📧 Email: hunghuy0925@gmail.com
 - 📘 Facebook: [hyhungg](https://www.facebook.com/hyhungg)
-- [hyhungg](https://huyhung1205.github.io))
+- [hyhungg](https://huyhung1205.github.io)
 ---
 ✨ “Học tập là hành trình không ngừng, chia sẻ là cách để cùng nhau tiến xa hơn.” ✨
